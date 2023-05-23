@@ -1,0 +1,12 @@
+TypeScript Types:
+
+Core Types 
+--- Number
+--- String
+--- Boolean
+
+--- Object
+--- Array
+
+--- Tuples
+--- Enum

@@ -1,0 +1,21 @@
+Typescript :- 
+
+A Programming Language
+Not understandable by browser
+Not Executable by browser
+
+Typescript is Superset of JavaScript :- Built on top of JS
+Compile to JS :- Whatever you write in Typescript at the end of a day the code will compile in to JS
+
+Why Typescript ?
+
+. Better Code Quality
+. Less Errors 
+. Catch error at build time or Compile time
+. New Features
+. What variable or function we used in our code so every thing will be define by Typed
+
+To generate JS file to run in browser we have to convert the Typescript code by the Typescript compiler so we use a command in terminal :- 
+   tsc app.ts  // tsc <filename>
+
+Check Version of TS compiler :- tsc -v
